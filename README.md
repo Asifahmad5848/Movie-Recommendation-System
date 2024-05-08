@@ -59,11 +59,3 @@ This dataset consists of the following files:
 
 6.  Deployment using Streamlit where we have to select or type the movie accordingly to render output on screen
 
-# To see the interface of the app 
-
-#### Like how it looked like on laptop and mobile resolutions
-
-```diff
-+ Go to Collaborative Final Images folder
- ```
-[Click on this to see the pics of interface on laptop and mobile](https://github.com/komalreddy3/MovieRecommendationSystem/tree/0ea71f0e3baa489a37bd55bf82d464d699d4577b/Colloborative%20Final%20Images)
